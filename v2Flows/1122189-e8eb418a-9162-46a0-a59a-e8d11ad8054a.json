@@ -10,7 +10,7 @@
 			"name": "User",
 			"item": [
 				{
-					"name": "Get authenticated user",
+					"name": "Get authenticated user2",
 					"event": [
 						{
 							"listen": "test",
@@ -27,7 +27,7 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://api.getpostman.com/me",
+							"raw": "https://api.getpostman.com/med",
 							"protocol": "https",
 							"host": [
 								"api",
