@@ -7,18 +7,6 @@
 	"item": [
 		{
 			"name": "New Request",
-			"id": "1122189-3c3970e9-c41d-490b-8134-3483ffcd9696",
-			"protocolProfileBehavior": {
-				"disableBodyPruning": true
-			},
-			"request": {
-				"method": "GET",
-				"header": []
-			},
-			"response": []
-		},
-		{
-			"name": "New Request",
 			"id": "1122189-bdf7b22f-5248-42ac-b960-cd973f8f4b9a",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
