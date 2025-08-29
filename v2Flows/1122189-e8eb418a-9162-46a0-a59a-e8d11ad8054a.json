@@ -7,7 +7,7 @@
 	},
 	"item": [
 		{
-			"name": "User",
+			"name": "Users",
 			"item": [
 				{
 					"name": "Get authenticated user2",
