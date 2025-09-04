@@ -97,7 +97,14 @@
 			},
 			"request": {
 				"method": "GET",
-				"header": []
+				"header": [],
+				"url": {
+					"raw": "WWW.",
+					"host": [
+						"WWW",
+						""
+					]
+				}
 			},
 			"response": []
 		}
