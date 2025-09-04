@@ -6,6 +6,11 @@
 	},
 	"item": [
 		{
+			"name": "New Folder",
+			"item": [],
+			"id": "1122189-84b94443-ccfe-4ef4-8b85-3a940701b50e"
+		},
+		{
 			"name": "New Requesat",
 			"id": "1122189-bdf7b22f-5248-42ac-b960-cd973f8f4b9a",
 			"protocolProfileBehavior": {
@@ -105,6 +110,18 @@
 						""
 					]
 				}
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"id": "1122189-7f53cae1-3768-461c-b858-367a1b54a43e",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
 			},
 			"response": []
 		}
