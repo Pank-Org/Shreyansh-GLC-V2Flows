@@ -1342,6 +1342,18 @@
 				"description": "This request will help you to visualize any XML.\n\nChange the URL and run the request, then go to the Visualizer tab to see the XML as a table.\n\nYou can head over to the `Tests` tab, scroll down to the bottom and change the `xmlData` to `pm.response.text()` to visualize your entire XML response."
 			},
 			"response": []
+		},
+		{
+			"name": "New Request",
+			"id": "1122189-9b8f198e-d88f-4987-807a-6fe1c3024c10",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
 		}
 	],
 	"variable": [
