@@ -4,5 +4,30 @@
 		"name": "GLC FLOW V2 Colection",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
-	"item": []
+	"item": [
+		{
+			"name": "New Request",
+			"id": "1122189-3f5d26d4-1b72-43a3-b0d9-30a41bc07b68",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"id": "1122189-6c3d34d4-b75f-4509-ba48-205e43f61bac",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
 }
