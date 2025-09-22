@@ -1,7 +1,7 @@
 {
 	"info": {
 		"_postman_id": "1122189-111a96fb-6ef0-4e16-a2d3-4b47c589965c",
-		"name": "Data Visualizationk",
+		"name": "Data Visualizationkmjj",
 		"description": "# Get Started Here 👇\n\nThe _Postman Visualizer_ provides a programmable way to visually represent your request [responses](https://learning.postman.com/docs/sending-requests/responses/).\n\n## **Using this collection**\n\nThis collection contains six sample requests and scripts for rendering Bar graph, Table, Map and visualizing any CSV, JSON or XML data.\n\n**Step 1:** Send the sample requests.\n\n**Step 2:** Find the visualization in the \"visualize\" tab in the response near the \"Pretty\" view.\n\n<img src=\"https://content.pstmn.io/a4c4bb63-d25b-460d-b885-38fbe6effcca/dmlzdWFsaXplci1tYXAtdjguanBn\" alt=\"Visualizer%20Map\">\n\n**Step 3:** You can copy, update and use the test script under the \"Test\" tab for your requests.\n\n**Resource:** [Visualizing responses](https://learning.postman.com/docs/sending-requests/visualizer/#:~:text=as%20an%20object.-,Viewing%20visualizations,be%20in%20a%20web%20browser.)",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
