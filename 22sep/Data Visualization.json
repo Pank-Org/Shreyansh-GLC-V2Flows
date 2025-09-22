@@ -1342,6 +1342,54 @@
 				"description": "This request will help you to visualize any XML.\n\nChange the URL and run the request, then go to the Visualizer tab to see the XML as a table.\n\nYou can head over to the `Tests` tab, scroll down to the bottom and change the `xmlData` to `pm.response.text()` to visualize your entire XML response."
 			},
 			"response": []
+		},
+		{
+			"name": "New Request",
+			"id": "1122189-70178d46-30d8-4d87-a8ed-f49af2411ee4",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"id": "1122189-a735e828-b720-461e-8198-479d6fda6732",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"id": "1122189-fc9b3883-ff64-4dd8-ace5-ae3e7efcbb28",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"id": "1122189-ea37f99b-3905-49ca-bc52-f5c135600658",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
 		}
 	],
 	"variable": [
